@@ -6,8 +6,8 @@
 
 This work aimed to evaluate measures of goodness of fit of a logistic regression model using the _Breast Cancer Dataset_ and the R language.
 
-<img src="images/adequação_curva.png?raw=true" style="height: 100px; width:100px;"/>
-<img src="images/matriz_correla.png?raw=true"/>
+<img src="images/adequação_curva.png?raw=true" style="height: 300px; width:300px;"/><img src="images/matriz_correla.png?raw=true" style="height: 300px; width:300px;"/>
+
 <img src="images/roc.png?raw=true"/>
 
 ---
