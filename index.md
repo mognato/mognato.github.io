@@ -4,8 +4,10 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-teste
+[ESTUDO DE MODELO DE REGRESSÃO LOGÍSTICA USANDO CONJUNTO DE DADOS DE CÂNCER DE MAMA](/sample_page)
+
+Este trabalho teve como objetivo avaliar medidas de qualidade do ajuste de um modelo de regressão logística usando o _Breast Cancer Dataset_ e a linguagem R.
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -32,5 +34,3 @@ teste
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
