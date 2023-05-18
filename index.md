@@ -1,9 +1,11 @@
 
 
-## STUDY OF LOGISTICS REGRESSION MODEL USING BREAST CANCER DATASET
+### STUDY OF LOGISTICS REGRESSION MODEL USING BREAST CANCER DATASET
 
 ---
 
 This work aimed to evaluate measures of goodness of fit of a logistic regression model using the _Breast Cancer Dataset_ and the R language.
 <img src="images/matriz_correla.png?raw=true"/>
 <img src="images/roc.png?raw=true"/>
+
+[![](https://img.shields.io/badge/R-white?logo=R)](#)
