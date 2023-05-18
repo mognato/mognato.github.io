@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
-
-[ESTUDO DE MODELO DE REGRESSÃO LOGÍSTICA USANDO CONJUNTO DE DADOS DE CÂNCER DE MAMA](/sample_page)
+## ESTUDO DE MODELO DE REGRESSÃO LOGÍSTICA USANDO CONJUNTO DE DADOS DE CÂNCER DE MAMA
 
 Este trabalho teve como objetivo avaliar medidas de qualidade do ajuste de um modelo de regressão logística usando o _Breast Cancer Dataset_ e a linguagem R.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/adequação_curva.png?raw=true"/>
+<img src="images/matriz_correla.png?raw=true"/>
+<img src="images/roc.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
