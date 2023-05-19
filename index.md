@@ -5,7 +5,7 @@ This work aimed to evaluate measures of goodness of fit of a logistic regression
 <img src="images/matriz_correla.png?raw=true"/>
 <img src="images/roc.png?raw=true"/>
 
-[![](https://img.shields.io/badge/R-white?logo=R)](#)
+[![](https://img.shields.io/badge/R-white?logo=R)](#) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
 
