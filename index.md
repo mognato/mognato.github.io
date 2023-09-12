@@ -1,3 +1,11 @@
+### K-means algorithm applied to the Metallica Spotify songs database
+
+This work aimed to analyse and explore the data using graphics, tables, measures and apply the k-means algorithm to cluster the dataset.
+
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+---
+
 ### Study of logistics regression model using Breast Cancer Dataset
 
 This work aimed to evaluate measures of goodness of fit of a logistic regression model using the _Breast Cancer Dataset_ and the R language.
