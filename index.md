@@ -2,6 +2,8 @@
 
 This work aimed to analyse and explore the data using graphics, tables, measures and apply the k-means algorithm to cluster the dataset.
 
+<img src="images/cluster plot.png?raw=true"/>
+
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 ---
